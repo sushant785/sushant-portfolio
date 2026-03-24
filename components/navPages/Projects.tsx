@@ -26,7 +26,7 @@ const projects = [
     thumbnail: "/project1.png",
     techStack: ["react", "node", "express", "mongo"],
     gradient: "#51fbfb, rgb(13, 1, 60)",
-    github: "#",
+    github: "https://github.com/sushant785/aashray",
     live: "#",
   },
   {
@@ -35,8 +35,8 @@ const projects = [
     thumbnail: "/project2.png",
     techStack: ["react", "node", "express", "mongo"],
     gradient: "#ff7e5f, #0b1020",
-    github: "#",
-    live: "#",
+    github: "https://github.com/sushant785/upskillr",
+    live: "https://upskillr-lqvb.vercel.app/",
   },
   {
     title: "CivicPulse",
@@ -44,7 +44,7 @@ const projects = [
     thumbnail: "/project3.png",
     techStack: ["python", "flask", "react", "postgres"],
     gradient: "#14f195, rgb(13, 1, 60)",
-    github: "#",
+    github: "https://github.com/sushant785/CivicPulse-Frontend",
     live: "#",
   },
   {
@@ -53,7 +53,7 @@ const projects = [
     thumbnail: "/project4.png",
     techStack: ["express", "node", "react"],
     gradient: "#64e, rgb(13, 1, 60)",
-    github: "#",
+    github: "https://github.com/sushant785/BackEnd-FinGuru",
     live: "#",
   },
 ];
